@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: This resource contains information related to report guidelines.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/15-567-the-economics-of-information-strategy-structure-and-pricing-fall-2010/6f4cde780fa37f8d108da658cbe5654d_MIT15_567F10_proj_guide01.pdf
+file: /media/courses/15-567-the-economics-of-information-strategy-structure-and-pricing-fall-2010/6f4cde780fa37f8d108da658cbe5654d_MIT15_567F10_proj_guide01.pdf
 file_type: application/pdf
+learning_resource_types:
+- Projects
+ocw_type: OCWFile
+parent_title: Projects
+parent_type: CourseSection
 resourcetype: Document
 title: MIT15_567F10_proj_guide01.pdf
 uid: 6f4cde78-0fa3-7f8d-108d-a658cbe5654d

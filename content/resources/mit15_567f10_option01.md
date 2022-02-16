@@ -2,8 +2,13 @@
 content_type: resource
 description: 'This resource provides information related to detailed description for
   option 1. '
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/15-567-the-economics-of-information-strategy-structure-and-pricing-fall-2010/da68696a1fc7e30bee25ee5b8770018f_MIT15_567F10_option01.pdf
+file: /media/courses/15-567-the-economics-of-information-strategy-structure-and-pricing-fall-2010/da68696a1fc7e30bee25ee5b8770018f_MIT15_567F10_option01.pdf
 file_type: application/pdf
+learning_resource_types:
+- Projects
+ocw_type: OCWFile
+parent_title: Projects
+parent_type: CourseSection
 resourcetype: Document
 title: MIT15_567F10_option01.pdf
 uid: da68696a-1fc7-e30b-ee25-ee5b8770018f
