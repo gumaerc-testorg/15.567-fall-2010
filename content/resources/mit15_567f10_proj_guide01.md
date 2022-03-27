@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: 3acd4ea7-f5dc-f68e-a462-a03645b0c2d5
 resourcetype: Document
 title: MIT15_567F10_proj_guide01.pdf
 uid: 6f4cde78-0fa3-7f8d-108d-a658cbe5654d

@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: 3acd4ea7-f5dc-f68e-a462-a03645b0c2d5
 resourcetype: Document
 title: MIT15_567F10_option02.pdf
 uid: bf85bc21-7c3c-7505-f9c9-6d0044564efc
