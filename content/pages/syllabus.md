@@ -1,29 +1,19 @@
 ---
 content_type: page
+description: This syllabus section provides a course perspective and description,
+  an introduction video, and information on meeting times, principles and expectations,
+  textbooks, and grading.
+draft: false
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
 uid: c25c7dc7-8135-212d-2e51-d71926d5ca0d
 ---
-
-Course Meeting Times
---------------------
+## Course Meeting Times
 
 Lectures: 2 sessions / week, 1.5 hours / session
 
-Course Introduction
--------------------
-
-Flash and JavaScript are required for this feature.
-
-// ocw\_embed\_media('tecttv\_embed4', 'http://cdnbakmi.kaltura.com/p/203822/sp/20382200/flvclipper/entry\_id/1\_lnfstzfb/version/0', 'video', '/courses/sloan-school-of-management/15-567-the-economics-of-information-strategy-structure-and-pricing-fall-2010/Syllabus/', 'http://cdn.kaltura.com/p/1/sp/1/thumbnail/entry\_id/1\_lnfstzfb/width/480/height/360'); //
-
-15.567 Course introduction.  
-
-This video was created by Prof. Brynjolfsson using the [Xtranormal](http://en.wikipedia.org/wiki/Xtranormal) movie-making platform, and is not covered under our [Creative Commons](/terms/#cc) license.
-
-Course Perspective and Description
-----------------------------------
+## Course Perspective and Description
 
 Information, especially digital information, is different in many ways from other goods and services. Yet information is still subject to the laws of economics. The purpose of this course is to explore some of the economics of information and understand how they affect strategy, structure and pricing.
 
@@ -31,8 +21,7 @@ We will use lectures, cases, class discussion, guest speakers, exercises, and te
 
 Rapid and radical changes inevitably create opportunities for great wealth creation – and destruction. Business leaders empowered with knowledge of the underlying economic, business and technological principles will be at an advantage in such an environment.
 
-Course Principles and Expectations
-----------------------------------
+## Course Principles and Expectations
 
 Students in the class are co-producers of class discussions and collective learning. For this to happen, class members need to listen carefully to one another and build on or critique prior comments. Many of you have worked in some of the companies we will be discussing or have worked with the relevant technologies. If past experience is any guide, each of you has unique insights and experiences that can help your classmates better understand the issues we are discussing. The discussion should be a conversation in which all participants recognize that they have an obligation to advance our understanding of the issue at hand. Your contributions to this learning process will be appraised in addition to the specific content that you contribute.
 
@@ -40,8 +29,7 @@ Because this course relies heavily on class participation for its success, class
 
 Students who are thoroughly prepared for each session will benefit the most from this class. What's more, they add to the learning of their classmates. Hence, if you don't feel comfortable with these expectations, then this is not a good course for you to take this semester.
 
-Course Textbooks
-----------------
+## Course Textbooks
 
 ### Strongly Suggested
 
@@ -61,57 +49,26 @@ Varian, Hal, Joe Farrell, and Carl Shapiro. _The Economics of Information Techno
 
 [_Sloan Management Review_](http://sloanreview.mit.edu/)
 
-Grading
--------
+## Grading
 
-{{< tableopen >}}
-{{< theadopen >}}
-{{< tropen >}}
-{{< thopen >}}
+{{< tableopen >}}{{< theadopen >}}{{< tropen >}}{{< thopen >}}
 ACTIVITIES
-{{< thclose >}}
-{{< thopen >}}
+{{< thclose >}}{{< thopen >}}
 PERCENTAGES
-{{< thclose >}}
-
-{{< trclose >}}
-
-{{< theadclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< thclose >}}{{< trclose >}}{{< theadclose >}}{{< tbodyopen >}}{{< tropen >}}{{< tdopen >}}
 Class participation
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 35%
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 Individual and group assignments
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 25%
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 Midterm exam
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 15%
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 Team project
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 25%
-{{< tdclose >}}
-
-{{< trclose >}}
-
-{{< tableclose >}}
+{{< tdclose >}}{{< trclose >}}{{< tbodyclose >}}{{< tableclose >}}
