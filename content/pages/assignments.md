@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides a list of study questions on the course readings,
+  and instructions for the assigned one-pagers and exercises due throughout the course.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
@@ -45,7 +47,7 @@ The economics of information
 Sermo
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit15_567f10_assn02))
+({{% resource_link 78ccf08a-8f47-c50e-6a46-6a944267d97e "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -57,7 +59,7 @@ Sermo
 Differential pricing, signaling and screening
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit15_567f10_assn03))
+({{% resource_link 9b3ed514-17d5-056e-41e1-b43be147df10 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -69,7 +71,7 @@ Differential pricing, signaling and screening
 Bundling and aggregation
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit15_567f10_assn04))
+({{% resource_link 08518bef-5365-a14a-10f5-b70fb6d099dd "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -81,7 +83,7 @@ Bundling and aggregation
 Search and competition
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit15_567f10_assn05))
+({{% resource_link 12c62755-b2a1-ac4e-0b5f-18019bde33fa "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -93,7 +95,7 @@ Search and competition
 Two-sided networks: eBay
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit15_567f10_assn06))
+({{% resource_link 89898ce9-4139-3382-43ab-33a6be976f6e "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -105,7 +107,7 @@ Two-sided networks: eBay
 Pricing at zero
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit15_567f10_assn07))
+({{% resource_link a86d387d-415b-9444-29cf-21d9a8131b46 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -117,7 +119,7 @@ Pricing at zero
 Amazon
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit15_567f10_assn08))
+({{% resource_link e48673e6-6747-835e-0623-5722d6c53621 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -129,7 +131,7 @@ Amazon
 Targeted advertising: Google
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit15_567f10_assn09))
+({{% resource_link 839aaabd-2354-8fb0-60c9-1f3faf385641 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -153,7 +155,7 @@ Measurement, analytics and experimentation
 The long tail
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit15_567f10_assn11))
+({{% resource_link d0e53009-0392-3d49-5e9f-706e84a720e0 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -165,7 +167,7 @@ The long tail
 Deep QA and knowledge work
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit15_567f10_assn12))
+({{% resource_link e6dca66f-3ca9-0af9-332b-fdbb5598b494 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -189,7 +191,7 @@ Midterm exam
 Wikipedia
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit15_567f10_assn14))
+({{% resource_link 4f9c301a-1509-1bfc-56cf-5cdd238e9128 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -201,7 +203,7 @@ Wikipedia
 Enterprise 2.0
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit15_567f10_assn15))
+({{% resource_link 196e09bf-a23a-4766-4e34-159cb8fb9d72 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -213,7 +215,7 @@ Enterprise 2.0
 Open source and innovation
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit15_567f10_assn16))
+({{% resource_link a56442df-0f85-81b6-5294-845ea00c5cc6 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -225,7 +227,7 @@ Open source and innovation
 Experimentation, replication and innovation
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit15_567f10_assn17))
+({{% resource_link d565e48f-5ebe-7c72-d847-6d33034d065d "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -237,7 +239,7 @@ Experimentation, replication and innovation
 Digital advantage
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit15_567f10_assn18))
+({{% resource_link e31b2385-8405-3a06-1978-67f2e0f7354c "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -249,7 +251,7 @@ Digital advantage
 Social networks
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit15_567f10_assn19))
+({{% resource_link 849b564a-3a23-ced0-622d-0e31e6943ca6 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -261,7 +263,7 @@ Social networks
 Information analytics
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit15_567f10_assn20))
+({{% resource_link 3f24c6b5-490e-9a05-c803-24a28ac503c4 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -285,7 +287,7 @@ Student presentations
 Emerging electronic markets
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit15_567f10_assn22))
+({{% resource_link c18b6980-dcff-472c-7ce1-7b29a3390179 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -297,7 +299,7 @@ Emerging electronic markets
 Future of information economy
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit15_567f10_assn23))
+({{% resource_link 886c86e2-83e6-28c5-729b-bb0d9e834bd2 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
