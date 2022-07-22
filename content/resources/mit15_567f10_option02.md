@@ -6,6 +6,7 @@ file: /courses/15-567-the-economics-of-information-strategy-structure-and-pricin
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: MIT15_567F10_option02.pdf
 uid: bf85bc21-7c3c-7505-f9c9-6d0044564efc
 ---
 This resource provides information related to detailed description for option 2.
-
