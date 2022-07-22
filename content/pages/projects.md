@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This section provides a summary of the team project of the course, details
+  on two project options, the schedule of deliverables, and examples of student projects.
+learning_resource_types:
+- Projects
+ocw_type: CourseSection
 title: Projects
 uid: 3acd4ea7-f5dc-f68e-a462-a03645b0c2d5
 ---
@@ -22,9 +27,9 @@ With the instructor's permission, two teams may coordinate their projects to do 
 
 Additional information for option 1 can be found in the documents below:
 
-Detailed description ([PDF]({{< baseurl >}}/resources/mit15_567f10_option01))
+Detailed description ({{% resource_link da68696a-1fc7-e30b-ee25-ee5b8770018f "PDF" %}})
 
-Report guidelines ([PDF]({{< baseurl >}}/resources/mit15_567f10_proj_guide01))
+Report guidelines ({{% resource_link 6f4cde78-0fa3-7f8d-108d-a658cbe5654d "PDF" %}})
 
 Option 2: Issue Briefing
 ------------------------
@@ -33,9 +38,9 @@ For the issue briefing, teams will explore, in detail, a particular technology o
 
 Additional information for option 2 can be found in the documents below:
 
-Detailed description ([PDF]({{< baseurl >}}/resources/mit15_567f10_option02))
+Detailed description ({{% resource_link bf85bc21-7c3c-7505-f9c9-6d0044564efc "PDF" %}})
 
-Report guidelines ([PDF]({{< baseurl >}}/resources/mit15_567f10_proj_guide02))
+Report guidelines ({{% resource_link eb277420-bf69-5358-02f9-a3eb6701e3a8 "PDF" %}})
 
 Timetable
 ---------
@@ -117,16 +122,16 @@ Project Examples
 
 All student work is courtesy of MIT students, and is used with permission.
 
-Consumer Resale in a Digital Age ([PDF]({{< baseurl >}}/resources/mit15_567f10_pres01))
+Consumer Resale in a Digital Age ({{% resource_link a63fa1a9-d4a8-c731-5c2b-12caa7e957fc "PDF" %}})
 
-Competitive Behavior in the Korean Search Market ([PDF]({{< baseurl >}}/resources/mit15_567f10_pres03))
+Competitive Behavior in the Korean Search Market ({{% resource_link b4448737-db39-180f-2dc2-d3a2d71c0c8a "PDF" %}})
 
-Pricing Digital Textbooks for Growth and Profits ([PDF - 2.3MB]({{< baseurl >}}/resources/mit15_567f10_pres04))
+Pricing Digital Textbooks for Growth and Profits ({{% resource_link 4637e7e4-edc9-e4e3-ef3d-e18cc973761c "PDF - 2.3MB" %}})
 
-Listening Platforms ([PDF]({{< baseurl >}}/resources/mit15_567f10_pres05))
+Listening Platforms ({{% resource_link 105a0719-abb7-9c1a-6744-8de29e032ffd "PDF" %}})
 
-New Pricing Models for Online Music in the US ([PDF]({{< baseurl >}}/resources/mit15_567f10_pres06))
+New Pricing Models for Online Music in the US ({{% resource_link af39e893-28fb-244d-8d9a-9367a716a24c "PDF" %}})
 
-Location Based Social Commerce ([PDF]({{< baseurl >}}/resources/mit15_567f10_pres08))
+Location Based Social Commerce ({{% resource_link 00638e46-cd91-2916-d8e2-ae28cd0a3e05 "PDF" %}})
 
-NASA Electronic Non-Conformance System ([PDF]({{< baseurl >}}/resources/mit15_567f10_pres09))
+NASA Electronic Non-Conformance System ({{% resource_link 66c6c476-1ca1-09fd-8b17-40df6107f6e3 "PDF" %}})
