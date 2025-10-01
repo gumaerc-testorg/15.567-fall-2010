@@ -47,7 +47,7 @@ Liebowitz, Stan. _Re-Thinking the Network Economy: The True Forces that Drive th
 
 Varian, Hal, Joe Farrell, and Carl Shapiro. _The Economics of Information Technology: An Introduction_. Cambridge, UK: Cambridge University Press, 2005. ISBN: 9780521605212.
 
-[_Sloan Management Review_](http://sloanreview.mit.edu/)
+{{% resource_link "cb3a7cd2-58e0-49d1-863d-8712a500bce2" "_Sloan Management Review_" %}}
 
 ## Grading
 
